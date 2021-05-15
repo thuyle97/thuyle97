@@ -1,5 +1,8 @@
 <h2>Hi 👋, I am Thuy Le</h2>
 
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/thuynple) &nbsp; [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](thuynhatphuong.le@sjsu.edu) &nbsp;
+
+
 - 🌱 Senior student at SJSU
 - 👩🏻‍💻 Majoring in Computer Science
 - 💞️ I’m looking for networking opportunities
@@ -19,9 +22,8 @@
 
 
 
-<h3>📫 &nbsp; Contact me at</h3>
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/thuynple) &nbsp; [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](thuynhatphuong.le@sjsu.edu) &nbsp;
+
 
 
 
