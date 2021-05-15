@@ -1,6 +1,6 @@
 <h2>Hi 👋, I am Thuy Le</h2>
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/thuynple) &nbsp; [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](thuynhatphuong.le@sjsu.edu) &nbsp;
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?url=linkedin.com/in/thuyle97&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/thuynple) &nbsp; [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](thuynhatphuong.le@sjsu.edu) &nbsp;
 
 
 - 🌱 Senior student at SJSU
@@ -14,6 +14,10 @@
 <h3>Technologies</h3>
 
 <img width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> &nbsp; &nbsp;<img width="35px" height="35px" src="https://cdn0.iconfinder.com/data/icons/logos-and-brands-adobe/512/3_Xd_Adobe_logo_logos-256.png"> &nbsp; &nbsp;<img width="35px" height="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-256.png"> &nbsp; &nbsp;<img width="35px" height="35px" src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuyle97&hide=issues,stars&show_icons=true&theme=tokyonight)
+
+
 
 
 
