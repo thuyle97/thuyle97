@@ -1,21 +1,21 @@
 
 ![Hi, I'm Thuy Le](https://user-images.githubusercontent.com/67810546/118386433-53463d00-b5cc-11eb-9890-ac4f0661506b.png)
 
-
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thuyle97) 
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:thuynhatphuong.le@sjsu.edu) 
 
+Hi there, I'm Thuy 👋
 - 🌱 Senior student at SJSU
 - 👩🏻‍💻 Majoring in Computer Science
 - 💞️ I’m looking for networking opportunities
 
 <h3>🗒 &nbsp Languages</h3>
 
- <img alt="Java" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> &nbsp; &nbsp; <img width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> &nbsp; &nbsp; <img width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"> &nbsp; &nbsp;<img width="42px" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> &nbsp;<img width="42px" height="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> &nbsp; &nbsp;<img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> &nbsp; &nbsp;<img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> &nbsp; &nbsp;<img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp; &nbsp;<img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
 <h3>💻 &nbsp Technologies</h3>
 
-<img width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> &nbsp; &nbsp;<img width="35px" height="35px" src="https://cdn0.iconfinder.com/data/icons/logos-and-brands-adobe/512/3_Xd_Adobe_logo_logos-256.png"> &nbsp; &nbsp;<img width="35px" height="35px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-256.png"> &nbsp; &nbsp;<img width="35px" height="35px" src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png">
+<img alt="java" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> &nbsp; &nbsp;<img alt="java" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp; &nbsp;<img alt="java" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" /> &nbsp; &nbsp;<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/> &nbsp; &nbsp;<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
 <h3>📈 &nbsp GitHub's Stats</h3>
 
