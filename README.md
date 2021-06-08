@@ -7,7 +7,7 @@
 Hi there, I'm Thuy 👋
 - 🌱 Senior student at SJSU
 - 👩🏻‍💻 Majoring in Computer Science
-- 💞️ I’m looking for networking opportunities
+- 💞️ I’m looking for networking and internship opportunities
 
 <h3>🗒 &nbsp Languages</h3>
 
