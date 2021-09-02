@@ -4,7 +4,7 @@
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thuyle97) 
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:thuynhatphuong.le@sjsu.edu) 
 
-Hi there, I'm Thuy 👋
+Hi there, I'm Thuy<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🌱 Senior student at SJSU
 - 👩🏻‍💻 Majoring in Computer Science
 - 💞️ I’m looking for networking and internship opportunities
