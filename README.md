@@ -4,12 +4,14 @@
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thuyle97) 
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:thuynhatphuong.le@sjsu.edu) 
 
+
 Hi there, I'm Thuy<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🌱 Senior student at SJSU
 - 👩🏻‍💻 Majoring in Computer Science
 - 💞️ I’m looking for networking and internship opportunities
 
-<h2>🗒 &nbsp Languages</h3>
+<br>
+<h3>🗒 &nbsp Languages</h2>
 
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> &nbsp; &nbsp;
 <img alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> &nbsp; &nbsp;
@@ -18,7 +20,7 @@ Hi there, I'm Thuy<img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> &nbsp; &nbsp;
 <img alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> &nbsp; &nbsp;
 
-<h2>💻 &nbsp Technologies</h3>
+<h2>💻 &nbsp Technologies</h2>
 
 <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> &nbsp; &nbsp;
 <img alt="materialui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /> &nbsp; &nbsp;
@@ -26,15 +28,16 @@ Hi there, I'm Thuy<img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" /> &nbsp; &nbsp;
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/> &nbsp; &nbsp;
 <img alt="Canva" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<h2>🚀 &nbsp Frameworks </h3>
+ 
+<h2>🚀 &nbsp Frameworks </h2>
 
 <img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> &nbsp; &nbsp;
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> &nbsp; &nbsp;
 <img alt="express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> &nbsp; &nbsp;
 <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> &nbsp; &nbsp;
 
-<h2>📈 &nbsp GitHub's Stats</h3>
+<br>
+<h2>📈 &nbsp GitHub's Stats</h2>
 
 <a href="https://github.com/thuyle97">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=thuyle97&show_icons=true&line_height=27&count_private=true&hide=issues,stars&theme=default" alt="Thuy's GitHub Stats" />
