@@ -11,7 +11,7 @@ Hi there, I'm Thuy<img src="https://raw.githubusercontent.com/MartinHeinz/Martin
 - 💞️ I’m looking for networking and internship opportunities
 
 <br>
-<h3>🗒 &nbsp Languages</h2>
+<h2>🗒 &nbsp Languages</h2>
 
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> &nbsp; &nbsp;
 <img alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> &nbsp; &nbsp;
