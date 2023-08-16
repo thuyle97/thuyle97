@@ -6,9 +6,9 @@
 
 
 Hi there, I'm Thuy<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 🌱 Senior student at SJSU
+- 🌱 Graduated from SJSU
 - 👩🏻‍💻 Majoring in Computer Science
-- 💞️ I’m looking for networking and internship opportunities
+- 💞️ I’m looking for networking and full-time opportunities
 
 <br>
 <h2>🗒 &nbsp Languages</h2>
