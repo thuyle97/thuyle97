@@ -24,7 +24,6 @@
 - 🎖️ Tech internships at [DocuSign](https://www.docusign.com/) and [BHI](https://www.linkedin.com/company/bearhouse-innovations/about/)
 </p>
 
-<br>
 <h2>🗒 &nbsp Languages</h2>
 
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> &nbsp; &nbsp;
