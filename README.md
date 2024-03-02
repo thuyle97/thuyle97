@@ -4,11 +4,21 @@
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thuyle97) 
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:thuynhatphuong.le@sjsu.edu) 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/thuyle97/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
+ &nbsp; &nbsp;
+  <a href="mailto:phuongthuy9796@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+  </a>
+</p>
 
-Hi, I'm Thuy<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-- 🌱 Graduated from SJSU
+
+About Me
+- 🌱 Graduated from San Jose State University
 - 👩🏻‍💻 Majoring in Computer Science
-- 🎖️ Tech internships at [DocuSign] (https://www.docusign.com/), and [BHI] (https://www.linkedin.com/company/bearhouse-innovations/about/)
+- 🎖️ Tech internships at [DocuSign](https://www.docusign.com/) and [BHI](https://www.linkedin.com/company/bearhouse-innovations/about/)
 
 <br>
 <h2>🗒 &nbsp Languages</h2>
