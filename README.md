@@ -5,10 +5,10 @@
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:thuynhatphuong.le@sjsu.edu) 
 
 
-Hi there, I'm Thuy<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi, I'm Thuy<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🌱 Graduated from SJSU
 - 👩🏻‍💻 Majoring in Computer Science
-- 💞️ I’m looking for networking and full-time opportunities
+- 🎖️ Tech internships at [DocuSign] (https://www.docusign.com/), and [BHI] (https://www.linkedin.com/company/bearhouse-innovations/about/)
 
 <br>
 <h2>🗒 &nbsp Languages</h2>
