@@ -2,9 +2,7 @@
 
 
 
-<h3 align="center">
-👩🏻‍💻 Software Engineer&nbsp; - &nbsp; ⭐️ Bay Area
-</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thuyle97/">
@@ -14,7 +12,15 @@
   <a href="mailto:phuongthuy9796@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
+  &nbsp; &nbsp;
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=bun&theme=light" />
+  </a>
 </p>
+
+<h3 align="center">
+👩🏻‍💻 Software Engineer&nbsp; - &nbsp; ⭐️ Bay Area
+</h3>
 
 
 <h2>About Me</h2>
