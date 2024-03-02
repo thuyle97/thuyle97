@@ -18,7 +18,7 @@
 👩🏻‍💻 Software Engineer&nbsp; &nbsp; &nbsp; ⭐️ Bay Area
 </h3>
 
-<h2>About Me</h2>
+<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me</h2>
 
 - 🌱 Graduated from San Jose State University
 - 👩🏻‍💻 Majoring in Computer Science
