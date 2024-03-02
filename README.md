@@ -23,7 +23,6 @@
 - 🌱 Graduated from San Jose State University
 - 👩🏻‍💻 Majoring in Computer Science
 - 🎖️ Tech internships at [DocuSign](https://www.docusign.com/) and [BHI](https://www.linkedin.com/company/bearhouse-innovations/about/)
-</p>
 
 <h2>🗒 &nbsp Languages</h2>
 
@@ -60,7 +59,6 @@
 <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" /> &nbsp; &nbsp;
 <img alt="Canva" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<br>
 <h2>📈 &nbsp GitHub's Stats</h2>
 
 <a href="https://github.com/thuyle97">
