@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="center">
-👩🏻‍💻 Software Engineer&nbsp; &nbsp; &nbsp; ⭐️ Bay Area
+👩🏻‍💻 Software Engineer &nbsp; &nbsp; &nbsp; ⭐️ Bay Area
 </h3>
 
 <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me</h2>
