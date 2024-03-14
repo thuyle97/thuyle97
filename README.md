@@ -20,7 +20,8 @@
 
 <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me</h2>
 
-- 🌱 Pursuing Master's Degree at San Jose State University
+- 🌱 Pursuing Master's Degree
+- 📍 San Jose State University
 - 👩🏻‍💻 Majoring in Software Engineering
 - 🎖️ Tech internships at [DocuSign](https://www.docusign.com/) and [BHI](https://www.linkedin.com/company/bearhouse-innovations/about/)
 
