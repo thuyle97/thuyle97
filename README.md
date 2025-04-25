@@ -59,11 +59,7 @@
 <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" /> &nbsp; &nbsp;
 <img alt="Canva" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<h2>📈 &nbsp GitHub's Stats</h2>
 
-<a href="https://github.com/thuyle97">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=thuyle97&show_icons=true&line_height=27&count_private=true&hide=issues,stars&theme=default" alt="Thuy's GitHub Stats" />
-</a>
 
 <!---
 1A2B34
